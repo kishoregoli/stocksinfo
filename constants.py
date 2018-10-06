@@ -1,0 +1,6 @@
+DEFAULT_MYSQL_HOST = 'localhost'
+DEFAULT_MYSQL_PORT = 3306
+DEFAULT_MYSQL_DB = 'stocksdb'
+DEFAULT_MYSQL_USER = 'root'
+DEFAULT_MYSQL_PASSKEY = 'stockswarrior'
+
